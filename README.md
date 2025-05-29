@@ -18,7 +18,7 @@
 
 ## Как открыть
 
-Просто перейдите по ссылке: [https://ваш-username.github.io/my-visitka/](https://ваш-username.github.io/my-visitka/)
+Просто перейдите по ссылке: [https://github.com/GorpenyukMaksim/my-visitka](https://github.com/GorpenyukMaksim/my-visitka)
 
 ## Как запустить локально
 
